@@ -1,0 +1,15 @@
+Sterowanie:
+  - W, A, S, D
+Uderzenie (również budowanie):
+  - Spacja
+Inwentarz:
+  - E
+Zmiana obecnie używanej ręki:
+  - R
+Zatrzymanie gry (zapauzowanie):
+  - ESC
+Wybieranie obiektu do budowy:
+  - B (stojąc na pustym kafelku)
+
+Wejście/Wyjście w ognisko lub inny wybudowany budynek, oprócz wieży:
+  - P
